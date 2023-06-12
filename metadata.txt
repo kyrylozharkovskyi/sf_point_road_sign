@@ -1,0 +1,29 @@
+[general]
+
+name=Smart Factor Road sign
+
+description=
+
+about=
+ 
+version=1.4
+
+qgisMinimumVersion=3.0
+
+category=Plugins
+
+icon=img/sf_point_road_sign_ICON.png
+
+author=SF
+
+email=
+
+homepage=
+repository=
+tracker=
+
+experimental=False
+deprecated=False
+
+tags=point, road, sign, traffic, project, design
+
